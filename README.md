@@ -1,5 +1,5 @@
 # DS4002Project1
-H2 (##)
+H2
   Hypothesis: The IT, sale, and management skills are the most in demand in the current job market because they have the most frequent appearances in LinkedIn job descriptions and their high associated salary.
 
 Research Question: What are the most in-demand skills in the current job market based on LinkedIn job postings in 2023? 
