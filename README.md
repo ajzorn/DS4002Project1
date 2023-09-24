@@ -41,4 +41,9 @@ The most in-demand skills can be characterized as being the most frequently aske
 
 **FIGURES**
 
+**Table of Contents**
+| Figures Produced  | Description Summary |
+| ------------- | ------------- |
+| x  | y  |
+
 **REFERENCES**
