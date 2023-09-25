@@ -47,12 +47,15 @@ This code is specifically geared for this dataset. Any future usage of data gene
 
 
 **FIGURES**
-AverageSalary.png: This shows the distribution of avg_salary in the original data of job_descriptions.csv.  
-FrequencyVSAverageSalary.png: This shows the plotting of skill frequency, or the number of times the skill is seen throughout all job   descriptions, against Average_Salary, which is the average salary for the skill.   
-JobIDDescription.png: This shows the distribution of job_id in the original data of job_descriptions.csv.  
-MaxSalaryDistribution.png: This shows the distribution of max_salary in the original data of job_descriptions.csv.  
-MinimumSalaryDistribution.png: This shows the distribution of min_salary in the original data of job_descriptions.csv.  
-SpacyEntityRecExample.png: This shows SpaCy's annotation of one job description, using entity recognition to pick up skills.  
+
+| Image  | Description |
+| ------------- | ------------- |
+| AverageSalary.png  | This shows the distribution of avg_salary in the original data of job_descriptions.csv.  |
+| FrequencyVSAverageSalary.png  | This shows the plotting of skill frequency, or the number of times the skill is seen throughout all job   descriptions, against Average_Salary, which is the average salary for the skill |
+| JobIDDescription.png  | This shows the distribution of job_id in the original data of job_descriptions.csv.  |
+| MaxSalaryDistribution.png  | This shows the distribution of max_salary in the original data of job_descriptions.csv.  |
+| MinimumSalaryDistribution.png  | This shows the distribution of min_salary in the original data of job_descriptions.csv.  |
+| SpacyEntityRecExample.png  | This shows SpaCy's annotation of one job description, using entity recognition to pick up skills.  |
 
 **Table of Contents**
 | Figures Produced  | Description Summary |
