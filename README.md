@@ -57,11 +57,6 @@ This code is specifically geared for this dataset. Any future usage of data gene
 | MinimumSalaryDistribution.png  | This shows the distribution of min_salary in the original data of job_descriptions.csv.  |
 | SpacyEntityRecExample.png  | This shows SpaCy's annotation of one job description, using entity recognition to pick up skills.  |
 
-**Table of Contents**
-| Figures Produced  | Description Summary |
-| ------------- | ------------- |
-| x  | y  |
-
 **REFERENCES**
 [MI1](https://docs.google.com/document/d/1ppAeYLLSYAbewuzbW35OM706YdGiMNVCPr8siY3UACk/edit?usp=sharing)  
 [MI2](https://docs.google.com/document/d/1-oKBlzOuqZ24CadmqGQOG-Ak-YIQdI9KlopIWgarTZk/edit?usp=sharing)
