@@ -60,6 +60,8 @@ SpacyEntityRecExample.png: This shows SpaCy's annotation of one job description,
 | x  | y  |
 
 **REFERENCES**
+[MI1](https://docs.google.com/document/d/1ppAeYLLSYAbewuzbW35OM706YdGiMNVCPr8siY3UACk/edit?usp=sharing)  
+[MI2](https://docs.google.com/document/d/1-oKBlzOuqZ24CadmqGQOG-Ak-YIQdI9KlopIWgarTZk/edit?usp=sharing)
 [1] E. Brynjolfsson and A. McAfee, "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies," W. W. Norton & Company, 2014.  
 [2] M. Fitzgerald, “Visualizing feature importance in a simple text classification model,” Medium, https://medium.com/@morgan.fitzgerald/visualizing-feature-importance-in-a-simple-text-classification-model-b0495197eac (accessed Sep. 17, 2023).   
 [3] C. B. Frey and M. A. Osborne, "The Future of Employment: How Susceptible are Jobs to Computerization?" Technological Forecasting and Social Change, vol. 114, pp. 254-280, 2017.  
